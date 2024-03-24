@@ -1,2 +1,3 @@
 # arrumando a casa com linux
- estou aprendo linux
+ ESTOU  APRENDENDO LINUX MIT 
+ FAZENDO PENDRAIVE BOOT
